@@ -9,9 +9,9 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/Mister_Ash>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
-✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/The_Happy_Hour_Hindi>ᴛʜᴇ ʜʜᴀᴘᴘʏ ʜᴏᴜʀ™</a>
-✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/Mister_Ash>🅰𝙨𝙝 𝙆𝙚𝙩𝙘𝙝𝙪𝙢</a>
+✯ ᴍʏ ʟᴏᴠᴇ: <a href=tg://openmessage?user_id=1277771711>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
+✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/myfilmyduniya0143>ᴍʏ ꜰɪʟᴍʏ ᴅᴜɴɪʏᴀ</a>
+✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=tg://openmessage?user_id=1277771711>ᴍʀ ᴘᴘʀᴏꜰᴇꜱꜱᴏʀ</a>
 ✯ ʟɪʙʀᴀʀʏ: ɴᴏ ɪᴅᴇᴀ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ 🇮🇳
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ꜰʀᴇᴇ ᴠᴀʟᴀ 🤫
@@ -20,7 +20,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙsᴅᴋ 😝
-- 𝚂𝙾𝚄𝚁𝙲𝙴 - <a href=https://t.me/Mister_Ash>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ 🤪</a>"""
+- 𝚂𝙾𝚄𝚁𝙲𝙴 - <a href=tg://openmessage?user_id=1277771711>ɴʜɪ ᴅᴜɴɢᴀ ʙsᴅᴋ 🤪</a>"""
 
 
 
@@ -292,10 +292,10 @@ Name - {}
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<a href="https://t.me/The_Happy_Hour_Hindi"><b>{file_name}</b></a>
+    CUSTOM_FILE_CAPTION = """<a href="https://t.me/myfilmyduniya0143"><b>{file_name}</b></a>
 
 ════════※ ·❆· ※════════
-<a href="https://t.me/Happy_Hour_Friends"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
+<a href="https://t.me/Trype0143"><b>ㅤㅤ▫️Mᴏᴠɪᴇ Rᴇǫ Gʀᴏᴜᴘ▫️</b></a>
 ════════※ ·❆· ※════════"""
 
     RESTART_TXT = """
