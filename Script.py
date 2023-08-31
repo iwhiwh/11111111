@@ -9,9 +9,9 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ ᴍʏ ʟᴏᴠᴇ: <a href=tg://openmessage?user_id=1277771711>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
+✯ ᴍʏ ʟᴏᴠᴇ: <a href=https://t.me/Owner0143>ᴍʏ ᴏᴡɴᴇʀ🥰</a>
 ✯ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/myfilmyduniya0143>ᴍʏ ꜰɪʟᴍʏ ᴅᴜɴɪʏᴀ</a>
-✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=tg://openmessage?user_id=1277771711>ᴍʀ ᴘᴘʀᴏꜰᴇꜱꜱᴏʀ</a>
+✯ ᴍʏ ᴏᴡɴᴇʀ: <a href=https://t.me/Owner0143>ᴍʀ ꜱᴜɴɪʟ</a>
 ✯ ʟɪʙʀᴀʀʏ: ɴᴏ ɪᴅᴇᴀ
 ✯ ʟᴀɴɢᴜᴀɢᴇ: ʜɪɴᴅɪ 🇮🇳
 ✯ ᴅᴀᴛᴀʙᴀsᴇ: ꜰʀᴇᴇ ᴠᴀʟᴀ 🤫
