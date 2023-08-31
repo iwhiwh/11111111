@@ -585,7 +585,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('× ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ×', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('ᴏᴡɴ ɪɴғᴏ', url='tg://openmessage?user_id=1277771711')
+            InlineKeyboardButton('ᴏᴡɴ ɪɴғᴏ', url='https://t.me/Owner0143')
         ], [
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -702,7 +702,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='tg://openmessage?user_id=1277771711'),
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/Owner0143'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -850,7 +850,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "deploy":
         buttons = [[
            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/myfilmyduniya0143'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='tg://openmessage?user_id=1277771711')
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/Owner0143')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]
